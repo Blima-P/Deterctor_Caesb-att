@@ -26,5 +26,3 @@ Utilizando técnicas de web scraping, análise de URLs suspeitas e automação c
 - Web scraping e análise de URLs
 
 ---
-
-## 📁 Estrutura do Projeto
