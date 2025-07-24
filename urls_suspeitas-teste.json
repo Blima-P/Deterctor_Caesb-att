@@ -1,0 +1,14 @@
+{
+  "suspeitas_detectadas_em": "2025-07-24 10:00:00",
+  "urls_suspeitas": [
+    {
+      "url": "https://www.site-falso-caesb.xyz",
+      "dominio": "site-falso-caesb.xyz"
+    },
+    {
+      "url": "https://caesb-fake.site",
+      "dominio": "caesb-fake.site"
+    }
+  ],
+  "status": "anomalia_detectada"
+}

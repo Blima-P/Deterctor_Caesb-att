@@ -51,3 +51,32 @@
 [2025-07-24 12:59:06,162] INFO: 🔍 Buscando: conta caesb gov
 [2025-07-24 12:59:19,150] INFO: 
 ✅ Nenhum link suspeito foi detectado.
+[2025-07-24 13:04:15,986] INFO: 🚰 Iniciando varredura para CAESB...
+
+[2025-07-24 13:04:15,987] INFO: ====== WebDriver manager ======
+[2025-07-24 13:04:17,118] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 13:04:17,198] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 13:04:17,298] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 13:04:18,964] INFO: 🔍 Buscando: Caesb
+[2025-07-24 13:04:31,766] INFO: ====== WebDriver manager ======
+[2025-07-24 13:04:32,857] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 13:04:32,922] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 13:04:32,982] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 13:04:34,367] INFO: 🔍 Buscando: segunda via caesb
+[2025-07-24 13:04:45,486] INFO: ====== WebDriver manager ======
+[2025-07-24 13:04:46,422] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 13:04:46,480] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 13:04:46,539] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 13:04:47,793] INFO: 🔍 Buscando: caesb pagamento
+[2025-07-24 13:04:58,326] INFO: ====== WebDriver manager ======
+[2025-07-24 13:04:59,558] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 13:04:59,618] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 13:04:59,690] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 13:05:01,021] INFO: 🔍 Buscando: caesb 2 via conta
+[2025-07-24 13:05:13,481] INFO: ====== WebDriver manager ======
+[2025-07-24 13:05:14,493] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 13:05:14,574] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 13:05:14,631] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 13:05:15,887] INFO: 🔍 Buscando: conta caesb gov
+[2025-07-24 13:05:28,772] INFO: 
+✅ Nenhum link suspeito foi detectado.
