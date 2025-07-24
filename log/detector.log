@@ -1,0 +1,346 @@
+[2025-07-24 09:27:51,142] INFO: ====== WebDriver manager ======
+[2025-07-24 09:27:52,303] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:27:52,381] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:27:52,447] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:27:53,986] INFO: 🔍 Buscando: caesb segunda via
+[2025-07-24 09:28:08,482] INFO: ====== WebDriver manager ======
+[2025-07-24 09:28:09,614] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:28:09,671] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:28:09,728] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:28:11,023] INFO: 🔍 Buscando: portal caesb
+[2025-07-24 09:28:24,362] INFO: ====== WebDriver manager ======
+[2025-07-24 09:28:25,371] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:28:25,461] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:28:25,517] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:28:26,778] INFO: 🔍 Buscando: conta caesb
+[2025-07-24 09:28:59,107] INFO: ====== WebDriver manager ======
+[2025-07-24 09:29:00,456] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:29:49,102] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:29:49,158] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:30:08,114] INFO: ====== WebDriver manager ======
+[2025-07-24 09:30:09,066] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:30:09,131] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:30:09,189] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:30:10,672] INFO: 🔍 Buscando: caesb segunda via
+[2025-07-24 09:30:23,392] INFO: ====== WebDriver manager ======
+[2025-07-24 09:30:24,612] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:30:24,682] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:30:24,739] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:30:26,003] INFO: 🔍 Buscando: portal caesb
+[2025-07-24 09:30:38,244] INFO: ====== WebDriver manager ======
+[2025-07-24 09:30:39,180] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:30:39,240] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:30:39,304] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:30:40,564] INFO: 🔍 Buscando: conta caesb
+[2025-07-24 09:30:52,909] INFO: ====== WebDriver manager ======
+[2025-07-24 09:30:53,995] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:30:54,077] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:30:54,166] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:30:55,400] INFO: 🔍 Buscando: caesb consultar falta de água
+[2025-07-24 09:31:07,296] INFO: 📁 Arquivo JSON atualizado: urls_suspeitas.json
+[2025-07-24 09:44:50,966] INFO: ====== WebDriver manager ======
+[2025-07-24 09:44:52,234] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:44:52,312] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:44:52,372] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:44:53,890] INFO: 🔍 Buscando: caesb segunda via
+[2025-07-24 09:45:06,745] INFO: ====== WebDriver manager ======
+[2025-07-24 09:45:07,862] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:45:07,919] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:45:07,983] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:45:09,249] INFO: 🔍 Buscando: portal caesb
+[2025-07-24 09:45:21,690] INFO: ====== WebDriver manager ======
+[2025-07-24 09:45:22,900] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:45:22,966] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:45:23,030] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:45:24,480] INFO: 🔍 Buscando: conta caesb
+[2025-07-24 09:45:38,096] INFO: ====== WebDriver manager ======
+[2025-07-24 09:45:39,193] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:45:39,273] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:45:39,333] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:45:40,877] INFO: 🔍 Buscando: caesb consultar falta de água
+[2025-07-24 09:45:51,749] INFO: 💾 Arquivo salvo: urls_suspeitas.json
+[2025-07-24 09:48:05,722] INFO: ====== WebDriver manager ======
+[2025-07-24 09:48:06,823] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:48:06,889] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:48:06,948] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:48:08,435] INFO: 🔍 Buscando: caesb segunda via
+[2025-07-24 09:48:20,008] INFO: ====== WebDriver manager ======
+[2025-07-24 09:48:21,087] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:48:21,143] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:48:21,201] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:48:22,496] INFO: 🔍 Buscando: portal caesb
+[2025-07-24 09:48:34,596] INFO: ====== WebDriver manager ======
+[2025-07-24 09:48:36,281] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:48:36,345] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:48:36,410] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:48:37,850] INFO: 🔍 Buscando: conta caesb
+[2025-07-24 09:48:49,596] INFO: ====== WebDriver manager ======
+[2025-07-24 09:48:51,260] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:48:51,352] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:48:51,416] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:48:52,946] INFO: 🔍 Buscando: caesb consultar falta de água
+[2025-07-24 09:49:05,366] INFO: 💾 Arquivo salvo: urls_suspeitas.json
+[2025-07-24 09:49:58,023] INFO: ====== WebDriver manager ======
+[2025-07-24 09:49:59,030] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:49:59,094] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:49:59,179] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:50:00,431] INFO: 🔍 Buscando: caesb segunda via
+[2025-07-24 09:50:12,375] INFO: ====== WebDriver manager ======
+[2025-07-24 09:50:13,429] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:50:13,486] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:50:13,548] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:50:14,888] INFO: 🔍 Buscando: portal caesb
+[2025-07-24 09:50:26,293] INFO: ====== WebDriver manager ======
+[2025-07-24 09:50:27,323] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:50:27,383] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:50:27,439] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:50:28,713] INFO: 🔍 Buscando: conta caesb
+[2025-07-24 09:50:40,918] INFO: ====== WebDriver manager ======
+[2025-07-24 09:50:42,019] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:50:42,077] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:50:42,134] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:50:43,476] INFO: 🔍 Buscando: caesb consultar falta de água
+[2025-07-24 09:50:53,998] INFO: 💾 Arquivo salvo: urls_suspeitas.json
+[2025-07-24 09:55:20,786] INFO: ====== WebDriver manager ======
+[2025-07-24 09:55:21,865] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:55:21,950] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:55:22,010] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:55:23,465] INFO: 🔍 Buscando: caesb segunda via
+[2025-07-24 09:55:35,649] INFO: ====== WebDriver manager ======
+[2025-07-24 09:55:36,798] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:55:36,894] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:55:36,950] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:55:38,986] INFO: 🔍 Buscando: portal caesb
+[2025-07-24 09:55:49,463] INFO: ====== WebDriver manager ======
+[2025-07-24 09:55:50,575] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:55:50,635] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:55:50,693] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:55:52,072] INFO: 🔍 Buscando: conta caesb
+[2025-07-24 09:56:04,289] INFO: ====== WebDriver manager ======
+[2025-07-24 09:56:05,526] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:56:05,590] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:56:05,660] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:56:06,938] INFO: 🔍 Buscando: caesb consultar falta de água
+[2025-07-24 09:56:17,321] INFO: 💾 JSON salvo: urls_suspeitas.json
+[2025-07-24 09:56:37,119] INFO: ====== WebDriver manager ======
+[2025-07-24 09:56:38,084] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:56:38,150] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:56:38,210] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:56:39,413] INFO: 🔍 Buscando: caesb segunda via
+[2025-07-24 09:56:51,110] INFO: ====== WebDriver manager ======
+[2025-07-24 09:56:52,269] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:56:52,332] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:56:52,391] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:56:53,638] INFO: 🔍 Buscando: portal caesb
+[2025-07-24 09:57:05,329] INFO: ====== WebDriver manager ======
+[2025-07-24 09:57:06,360] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:57:06,420] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:57:06,476] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:57:07,719] INFO: 🔍 Buscando: conta caesb
+[2025-07-24 09:57:20,735] INFO: ====== WebDriver manager ======
+[2025-07-24 09:57:21,860] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:57:21,921] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 09:57:21,979] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 09:57:23,207] INFO: 🔍 Buscando: caesb consultar falta de água
+[2025-07-24 09:57:35,329] INFO: 💾 JSON salvo: urls_suspeitas.json
+[2025-07-24 10:00:58,000] INFO: ====== WebDriver manager ======
+[2025-07-24 10:00:59,051] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:00:59,119] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:00:59,186] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:01:00,664] INFO: 🔍 Buscando: caesb segunda via
+[2025-07-24 10:01:13,236] INFO: ====== WebDriver manager ======
+[2025-07-24 10:01:14,290] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:01:14,432] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:01:15,503] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:01:16,763] INFO: 🔍 Buscando: portal caesb
+[2025-07-24 10:01:28,372] INFO: ====== WebDriver manager ======
+[2025-07-24 10:01:29,340] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:01:29,399] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:01:29,456] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:01:30,735] INFO: 🔍 Buscando: conta caesb
+[2025-07-24 10:01:41,215] INFO: ====== WebDriver manager ======
+[2025-07-24 10:01:42,238] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:01:42,295] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:01:42,354] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:01:43,596] INFO: 🔍 Buscando: caesb consultar falta de água
+[2025-07-24 10:01:54,723] INFO: 💾 JSON salvo: urls_suspeitas.json
+[2025-07-24 10:09:12,414] INFO: ====== WebDriver manager ======
+[2025-07-24 10:09:13,534] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:09:13,644] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:09:13,726] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:09:15,368] INFO: 🔍 Buscando: caesb segunda via
+[2025-07-24 10:09:26,766] INFO: ====== WebDriver manager ======
+[2025-07-24 10:09:28,241] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:09:28,306] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:09:28,363] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:09:29,781] INFO: 🔍 Buscando: portal caesb
+[2025-07-24 10:09:41,364] INFO: ====== WebDriver manager ======
+[2025-07-24 10:09:42,665] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:09:42,731] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:09:42,790] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:09:44,291] INFO: 🔍 Buscando: conta caesb
+[2025-07-24 10:09:55,012] INFO: ====== WebDriver manager ======
+[2025-07-24 10:09:56,097] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:09:56,156] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:09:56,227] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:09:57,595] INFO: 🔍 Buscando: caesb consultar falta de água
+[2025-07-24 10:10:11,179] INFO: 💾 JSON salvo: urls_suspeitas.json
+[2025-07-24 10:13:08,724] INFO: ====== WebDriver manager ======
+[2025-07-24 10:13:10,120] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:13:10,202] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:13:10,265] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:13:11,739] INFO: 🔍 Buscando: caesb segunda via
+[2025-07-24 10:13:23,802] INFO: ====== WebDriver manager ======
+[2025-07-24 10:13:25,271] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:13:25,347] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:13:25,404] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:13:26,838] INFO: 🔍 Buscando: portal caesb
+[2025-07-24 10:13:38,680] INFO: ====== WebDriver manager ======
+[2025-07-24 10:13:39,901] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:13:39,964] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:13:40,019] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:13:41,326] INFO: 🔍 Buscando: conta caesb
+[2025-07-24 10:13:53,297] INFO: ====== WebDriver manager ======
+[2025-07-24 10:13:54,665] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:13:54,729] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:13:54,787] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:13:56,164] INFO: 🔍 Buscando: caesb consultar falta de água
+[2025-07-24 10:14:09,205] INFO: 💾 JSON salvo: urls_suspeitas.json
+[2025-07-24 10:19:35,031] INFO: ====== WebDriver manager ======
+[2025-07-24 10:19:36,353] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:19:36,431] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:19:36,492] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:19:37,926] INFO: 🔍 Buscando: caesb segunda via
+[2025-07-24 10:19:50,891] INFO: ====== WebDriver manager ======
+[2025-07-24 10:19:51,910] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:19:51,968] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:19:52,026] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:19:53,361] INFO: 🔍 Buscando: portal caesb
+[2025-07-24 10:20:03,909] INFO: ====== WebDriver manager ======
+[2025-07-24 10:20:04,899] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:20:04,960] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:20:05,020] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:20:06,289] INFO: 🔍 Buscando: conta caesb
+[2025-07-24 10:20:18,509] INFO: ====== WebDriver manager ======
+[2025-07-24 10:20:19,478] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:20:19,535] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:20:19,591] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:20:20,843] INFO: 🔍 Buscando: caesb consultar falta de água
+[2025-07-24 10:20:32,582] INFO: 💾 JSON salvo: urls_suspeitas.json
+[2025-07-24 10:43:16,415] INFO: ====== WebDriver manager ======
+[2025-07-24 10:43:17,431] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:43:17,508] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:43:17,569] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:43:19,072] INFO: 🔍 Buscando: caesb segunda via
+[2025-07-24 10:43:31,409] INFO: ====== WebDriver manager ======
+[2025-07-24 10:43:32,374] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:43:32,433] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:43:32,489] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:43:33,732] INFO: 🔍 Buscando: portal caesb
+[2025-07-24 10:43:37,242] ERROR: ❌ Erro durante a extração: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=138.0.7204.158); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x491af3+62339]
+	GetHandleVerifier [0x0x491b34+62404]
+	(No symbol) [0x0x2d2123]
+	(No symbol) [0x0x2c1b30]
+	(No symbol) [0x0x2df8f2]
+	(No symbol) [0x0x345cbc]
+	(No symbol) [0x0x360089]
+	(No symbol) [0x0x33f1b6]
+	(No symbol) [0x0x30e7a2]
+	(No symbol) [0x0x30f644]
+	GetHandleVerifier [0x0x706683+2637587]
+	GetHandleVerifier [0x0x701a8a+2618138]
+	GetHandleVerifier [0x0x4b856a+220666]
+	GetHandleVerifier [0x0x4a8998+156200]
+	GetHandleVerifier [0x0x4af12d+182717]
+	GetHandleVerifier [0x0x499a38+94920]
+	GetHandleVerifier [0x0x499bc2+95314]
+	GetHandleVerifier [0x0x484d0a+9626]
+	BaseThreadInitThunk [0x0x76545d49+25]
+	RtlInitializeExceptionChain [0x0x7746d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7746d021+561]
+
+[2025-07-24 10:46:39,498] INFO: ====== WebDriver manager ======
+[2025-07-24 10:46:40,486] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:46:40,560] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:46:40,620] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:46:42,113] INFO: 🔍 Buscando: caesb segunda via
+[2025-07-24 10:46:54,346] INFO: ====== WebDriver manager ======
+[2025-07-24 10:46:55,267] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:46:55,324] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:46:55,380] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:46:56,616] INFO: 🔍 Buscando: portal caesb
+[2025-07-24 10:47:10,352] INFO: ====== WebDriver manager ======
+[2025-07-24 10:47:11,396] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:47:11,488] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:47:11,545] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:47:12,777] INFO: 🔍 Buscando: conta caesb
+[2025-07-24 10:47:24,215] INFO: ====== WebDriver manager ======
+[2025-07-24 10:47:25,195] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:47:25,259] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:47:25,326] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:47:26,635] INFO: 🔍 Buscando: caesb consultar falta de água
+[2025-07-24 10:47:39,907] INFO: 💾 JSON salvo: urls_suspeitas.json
+[2025-07-24 10:55:17,973] INFO: ====== WebDriver manager ======
+[2025-07-24 10:55:18,999] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:55:19,072] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:55:19,141] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:55:20,542] INFO: 🔍 Buscando: caesb segunda via
+[2025-07-24 10:55:31,617] INFO: ====== WebDriver manager ======
+[2025-07-24 10:55:32,646] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:55:32,724] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:55:32,782] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:55:34,081] INFO: 🔍 Buscando: portal caesb
+[2025-07-24 10:55:44,756] INFO: ====== WebDriver manager ======
+[2025-07-24 10:56:25,304] INFO: ====== WebDriver manager ======
+[2025-07-24 10:56:26,199] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:56:26,335] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:56:26,396] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:56:27,956] INFO: 🔍 Buscando: caesb segunda via
+[2025-07-24 10:56:41,108] INFO: ====== WebDriver manager ======
+[2025-07-24 10:56:42,105] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:56:42,181] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:56:42,262] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:56:43,560] INFO: 🔍 Buscando: portal caesb
+[2025-07-24 10:56:54,607] INFO: ====== WebDriver manager ======
+[2025-07-24 10:56:55,658] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:56:55,719] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:56:55,776] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:56:57,008] INFO: 🔍 Buscando: conta caesb
+[2025-07-24 10:57:09,698] INFO: ====== WebDriver manager ======
+[2025-07-24 10:57:10,947] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:57:11,026] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:57:11,100] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:57:12,355] INFO: 🔍 Buscando: caesb consultar falta de água
+[2025-07-24 10:57:23,376] INFO: 💾 JSON salvo: urls_suspeitas.json
+[2025-07-24 10:58:58,633] INFO: ====== WebDriver manager ======
+[2025-07-24 10:58:59,531] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:58:59,599] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:58:59,658] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:59:00,942] INFO: 🔍 Buscando: caesb segunda via
+[2025-07-24 10:59:06,605] WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None)': /session/1d4b109543a1eba212e03e4b92b1fe8c
+[2025-07-24 10:59:10,723] WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002072F632490>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/1d4b109543a1eba212e03e4b92b1fe8c
+[2025-07-24 10:59:21,834] INFO: ====== WebDriver manager ======
+[2025-07-24 10:59:22,718] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:59:22,785] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:59:22,850] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:59:24,194] INFO: 🔍 Buscando: https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChsSEwjRz7-709WOAxV5Z0gAHaiQI9wYACICCAEQOBoCY2U&co=1&ase=2&gclid=Cj0KCQjws4fEBhD-ARIsACC3d2-FpT0LOSj38JQp2EynPfwdP-Vg1Atc9cH36KNRb58RJVJRXJuPwKoaAt-iEALw_wcB&ohost=www.google.com&cid=CAESeOD2lMWmPsY7dfFlrjC8cjlMtKXnkvI9D8OMvubIyInWj65tm4Qp166V6HoKKGVLxC-Lqr9n_ZZVaOr63Ti_POdwRlPYWY9EwUtSKQPORmqZlwzhQhQTbwg_--ifhtWr5Tjb7sphOh5-9OuK_upbcsBWISlTf_EENg&category=acrcp_v1_45&sig=AOD64_3IquZQTlFShti9yMBzgrzJ3PQJVQ&q&nis=4&adurl&ved=2ahUKEwizrLy709WOAxUCFbkGHYI4AM4Q0Qx6BAg0EAQ
+[2025-07-24 10:59:35,305] INFO: ====== WebDriver manager ======
+[2025-07-24 10:59:36,271] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:59:36,334] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:59:36,388] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:59:37,676] INFO: 🔍 Buscando: portal caesb
+[2025-07-24 10:59:50,491] INFO: ====== WebDriver manager ======
+[2025-07-24 10:59:51,407] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:59:51,466] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 10:59:51,523] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 10:59:52,777] INFO: 🔍 Buscando: conta caesb
+[2025-07-24 11:00:04,595] INFO: ====== WebDriver manager ======
+[2025-07-24 11:00:05,503] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 11:00:05,560] INFO: Get LATEST chromedriver version for google-chrome
+[2025-07-24 11:00:05,617] INFO: Driver [C:\Users\pedroblima\.wdm\drivers\chromedriver\win64\138.0.7204.168\chromedriver-win32/chromedriver.exe] found in cache
+[2025-07-24 11:00:06,900] INFO: 🔍 Buscando: caesb consultar falta de água
+[2025-07-24 11:00:18,458] INFO: 💾 JSON salvo: urls_suspeitas.json

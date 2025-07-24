@@ -1,0 +1,10 @@
+[21592:21680:0724/125905.649:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:202] No machine level policy manager exists.
+[21912:19372:0724/125905.993:INFO:third_party\webrtc\rtc_base\cpu_info.cc:57] Available number of cores: 20
+[15408:12768:0724/125906.014:INFO:third_party\webrtc\rtc_base\cpu_info.cc:57] Available number of cores: 20
+[14564:22172:0724/125906.058:VERBOSE1:components\viz\service\main\viz_main_impl.cc:86] VizNullHypothesis is disabled (not a warning)
+[14736:13772:0724/125906.321:INFO:third_party\webrtc\rtc_base\cpu_info.cc:57] Available number of cores: 20
+[19604:16944:0724/125906.396:INFO:third_party\webrtc\rtc_base\cpu_info.cc:57] Available number of cores: 20
+[21592:21680:0724/125906.557:INFO:CONSOLE:0] "Did not find element expected to be parsed from: <link rel=expect href="#p6mZHc">", source: https://www.google.com/ (0)
+[21592:21600:0724/125908.846:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[21640:21572:0724/125916.960:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
+[21640:21572:0724/125916.960:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
